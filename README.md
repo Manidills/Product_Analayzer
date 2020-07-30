@@ -10,8 +10,18 @@ How to Run the code -
   5. wait for some time beacuse it process the data 
   6. you get the table of positive and negative reviews on that product.
   
-  
+ ScreenShot-
   
  ![alt text](ironman.gif)
+ 
+ 
+ 
+ 
+ 
  ![alt text](1.png)
+ 
+
+ 
+ 
+ 
  ![alt text](2.png)
